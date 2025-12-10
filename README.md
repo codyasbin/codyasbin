@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Asbin+%F0%9F%91%8B;Software+Enthusiast+%7C+Code+Architect;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%9A%80;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.asbin.me-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.asbin.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asbin](https://www.linkedin.com/in/sandesh-thapa-739561353/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asbin](https://www.linkedin.com/in/sandesh-thapa-739561353/ )
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st3361852@gmail.com)
 
 </div>
