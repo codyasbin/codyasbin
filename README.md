@@ -222,10 +222,8 @@ I believe in the power of community and collaboration. Whether you want to discu
 
 [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-www.asbin.me-blueviolet?style=for-the-badge)](https://www.asbin.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/codyasbin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/asbin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/asbin)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/asbin)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/asbin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sandesh-thapa-739561353/])
+
 
 ### 💌 Let's Build Something Amazing Together
 
