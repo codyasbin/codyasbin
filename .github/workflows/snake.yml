@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,9 @@ jobs:
         uses: Sutil/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: dist/github-contribution-grid-snake.gif   # <-- MUST be gif_out_path
+          gif_out_path: dist/github-contribution-grid-snake.gif   # correct key for GIF
           snake_color: blue
-          background_color: transparent                          # optional, makes it fit dark/light themes
+          background_color: transparent   # matches dark/light themes
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2
