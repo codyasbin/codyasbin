@@ -1,26 +1,32 @@
 name: Generate Snake Game
 
+# Automatically run every day at midnight or trigger manually
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+  workflow_dispatch:      # allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake animation
-        uses: Sutil/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: dist/github-contribution-grid-snake.gif   # correct key for GIF
-          snake_color: blue
-          background_color: transparent   # matches dark/light themes
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit generated files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/
+          git commit -m "Update GitHub contribution snake" || echo "No changes to commit"
+          git push
