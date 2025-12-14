@@ -13,8 +13,9 @@ jobs:
         uses: Sutil/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.gif
+          gif_out_path: dist/github-contribution-grid-snake.gif   # <-- MUST be gif_out_path
           snake_color: blue
+          background_color: transparent                          # optional, makes it fit dark/light themes
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2
