@@ -22,6 +22,9 @@ I don't just write code—I craft digital experiences that bridge the gap betwee
 
 ---
 
+![Snake animation](https://github.com/codyasbin/codyasbin/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🚀 About Me
 
 ```javascript
