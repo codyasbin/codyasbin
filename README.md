@@ -148,7 +148,6 @@ class CurrentJourney:
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=codyasbin&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
