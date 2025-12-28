@@ -86,7 +86,7 @@ I believe in the power of clean code, elegant architecture, and the philosophy t
 ![Fast API](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
+![Expo](https://img.shields.io/badge/Expo-1F6FEB?style=for-the-badge&logo=expo&logoColor=white)
 
 </div>
 
