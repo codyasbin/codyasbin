@@ -235,7 +235,7 @@ while(alive) {
 
 ### ⚡ *Powered by curiosity, driven by passion, sustained by patience* ☕
 
-![Profile Views](https://komarev.com/ghpvc/?username=codyasbin&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 ---
 
