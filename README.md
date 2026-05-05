@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌌 Welcome to My Digital Universe 🌌
+# Welcome to My Digital Universe 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Asbin+%F0%9F%91%8B;Software+Enthusiast+%7C+Code+Architect;Turning+Coffee+into+Code+%E2%98%95%E2%9E%A1%EF%B8%8F%F0%9F%9A%80;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
@@ -136,15 +136,6 @@ class CurrentJourney:
 
 </div>
 
----
-
-## 🌟 Philosophy Corner
-
-<div align="center">
-
-
-
-</div>
 
 ---
 
