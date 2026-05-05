@@ -12,23 +12,11 @@
 
 ---
 
-## 💭 Philosophy
-
-> *"In the symphony of code, every function is a note, every algorithm a melody, and every solution a masterpiece waiting to be composed."*
-
-I don't just write code—I craft digital experiences that bridge the gap between human imagination and machine precision. Every line is a deliberate step toward transforming abstract ideas into tangible reality. In this realm of infinite possibilities, I am both the architect and the explorer, constantly pushing the boundaries of what software can achieve.
-
-**My Belief:** Technology is not merely a tool; it's an extension of human consciousness, a medium through which we can amplify our potential and leave an indelible mark on the digital landscape.
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <img alt="GitHub Snake" src="dist/github-snake-dark.svg" />
 </picture>
-
-
-
 
 
 ## 🚀 About Me
@@ -58,9 +46,7 @@ const asbin = {
 };
 ```
 
-I believe in the power of clean code, elegant architecture, and the philosophy that every problem has multiple solutions—it's our job to find the most beautiful one. My journey in software is not just about mastering languages; it's about mastering the art of problem-solving and continuous growth.
 
----
 
 ## 🛠️ Tech Arsenal
 
@@ -146,33 +132,7 @@ class CurrentJourney:
 
 ---
 
-## 🏆 Achievements & Milestones
 
-<div align="center">
-
-
-</div>
-
-- 🎓 **Continuous Learner**: Never stop growing, never stop coding
-- 🌟 **Open Source Contributor**: Giving back to the community that taught me
-- 💡 **Problem Solver**: Turning complex challenges into elegant solutions
-- 🚀 **Innovation Driver**: Always exploring the cutting edge
-- 🤝 **Collaborative Spirit**: Building better software together
-
----
-
-## 💼 What I Bring to the Table
-
-<div align="center">
-
-| Strength | Description |
-|----------|-------------|
-| 🧠 **Analytical Mindset** | Breaking down complex problems into manageable solutions |
-| 🎨 **Creative Thinking** | Approaching challenges from unique perspectives |
-| ⚡ **Fast Learner** | Adapting quickly to new technologies and frameworks |
-| 🤝 **Team Player** | Collaborating effectively in diverse environments |
-| 📈 **Growth Oriented** | Constantly evolving and improving my craft |
-| 🎯 **Result Driven** | Focused on delivering impactful, working solutions |
 
 </div>
 
@@ -182,38 +142,21 @@ class CurrentJourney:
 
 <div align="center">
 
-### *The Code I Live By*
 
-> **"Quality over quantity, impact over output."**
-
-> **"Every bug is an opportunity to learn, every error a chance to improve."**
-
-> **"Write code that speaks for itself, document for those who follow."**
-
-> **"In the realm of bits and bytes, integrity is not negotiable."**
-
-> **"The best code is not the cleverest—it's the most maintainable."**
 
 </div>
 
 ---
 
-## 📫 Let's Connect
 
-<div align="center">
-
-I believe in the power of community and collaboration. Whether you want to discuss a project, share ideas, or just talk about the latest tech trends—my digital door is always open.
 
 ### 🌐 Find Me Here
 
-[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-www.asbin.me-blueviolet?style=for-the-badge)](https://www.asbin.me)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-www.asbin.me-blueviolet?style=for-the-badge)](https://www.asbin.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/codyasbin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sandesh-thapa-739561353/])
 
 
-### 💌 Let's Build Something Amazing Together
-
-*"The best way to predict the future is to create it."* – Let's create it together.
 
 </div>
 
@@ -221,7 +164,7 @@ I believe in the power of community and collaboration. Whether you want to discu
 
 <div align="center">
 
-## 🎭 Final Words
+
 
 ```javascript
 while(alive) {
